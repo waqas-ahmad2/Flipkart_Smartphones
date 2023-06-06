@@ -35,6 +35,6 @@ This Python script scrapes smartphone data from Flipkart and stores it in a Pand
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the  GNU LESSER GENERAL PUBLIC LICENSE.
 You can customize the content as per your requirements and include any additional sections or details. Also, make sure to replace `your-username` in the installation instructions with your actual GitHub username.
 
