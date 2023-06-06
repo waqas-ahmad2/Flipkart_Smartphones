@@ -36,5 +36,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License.
 You can customize the content as per your requirements and include any additional sections or details. Also, make sure to replace `your-username` in the installation instructions with your actual GitHub username.
 
-Remember to include a license file (e.g., `LICENSE`) in the repository if you choose to use a specific license for your code.
-
